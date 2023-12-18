@@ -1,0 +1,26 @@
+body{
+    background-color: whitesmoke;
+}
+
+.words{
+    color: burlywood;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    margin-top: 40vmin;
+    margin-right: 15vmin;
+    margin-left: 15vmin;
+    padding-bottom: 7vmin;
+    background-color: rgb(160, 91, 8);
+    border-radius: 10vmin;
+    border: black solid 2px;
+}
+
+button{
+    background-color: burlywood;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 5vmin;
+    
+}
+
